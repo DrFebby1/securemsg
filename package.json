@@ -1,0 +1,10 @@
+{
+  "name": "securemsg",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "bin": { "securemsg": "client.js" },
+  "engines": { "node": ">=22.13" },
+  "scripts": { "deploy": "wrangler deploy", "dev": "wrangler dev" },
+  "devDependencies": { "wrangler": "^4" }
+}
