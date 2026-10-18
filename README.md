@@ -132,3 +132,4 @@ wss://securemsg.dr-febby-minecraft.workers.dev
 | `Wrong password` | پسورد اشتباهه. اگه یادت نیست، راه بازیابی نیست |
 | `Could not reach the server` | اینترنتت رو چک کن و آدرس سرور رو دوباره بررسی کن |
 | `Authentication failed` | حساب تو این دستگاه با حساب سرور نمی‌خونه. با یه یوزرنیم دیگه ثبت‌نام کن |
+# securemsg
